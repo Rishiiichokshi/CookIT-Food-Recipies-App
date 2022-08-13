@@ -1,16 +1,4 @@
-# mealz
+CookIt!
 
-A new Flutter project.
+The Food Recipes app is a great way to find new recipes and cook up a delicious meal. With this app, you can browse through an extensive collection of recipes, save your favorites, and even share your own creations with others. Whether you're a beginner cook or a seasoned pro, the Food Recipes app is a great resource for anyone who loves to cook.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
